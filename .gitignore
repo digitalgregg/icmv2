@@ -63,6 +63,6 @@ target/
 .vagrant/
 .idea/
 venv/
-bower_components/
+
 node_modules/
 certs/
