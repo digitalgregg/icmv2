@@ -15,10 +15,10 @@ DATABASES = {
     "default": {
         # don't use pooled in development as it hides errors
         "ENGINE": 'django.db.backends.postgresql',
-        "NAME": "dcc06na7ug6ad",
-        "USER": "ocaxtcvwcgyftl",
-        "PASSWORD": "b8d8ec00243d5b2d577b2552a6166120f2c5981617d3cfb10cf26283f0904698",
-        "HOST": "ec2-52-71-69-66.compute-1.amazonaws.com",
+        "NAME": "dc2t3ocock5ddf",
+        "USER": "cefxuwnxhhiebe",
+        "PASSWORD": "1cf89031b3a0b57214f1bee62d40aa82f8977cc9f9d2036dd78fac3f31751d5b",
+        "HOST": "ec2-54-80-122-11.compute-1.amazonaws.com",
         "PORT": "5432",
     },
     #	'salesforce': {
