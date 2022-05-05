@@ -11,6 +11,8 @@ from companies.serializers import CompanySerializer, CompanyUserSerializer, \
     CompanyUserGroupSerializer
 from core.cbvs import HidePlanBarMixin, AppMixin
 
+# from icmo.apps.api.mixins import NestedKwargsMixin
+
 
 class CompaniesListView(HidePlanBarMixin, TemplateView):
     template_name = 'companies/companies.html'
